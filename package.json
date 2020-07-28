@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "expres": "^0.0.5"
-  },
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "chokidar": "^3.4.1",
