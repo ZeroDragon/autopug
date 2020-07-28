@@ -3,7 +3,7 @@ Auto Pug Coso
 
 Para desarrollar frontend con pug usando browsersync
 
-# Istrucciones
+# Instrucciones
 copia el .envrc.example como .envrc
 
 - Zero
